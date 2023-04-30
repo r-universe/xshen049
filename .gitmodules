@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MixSemiRob"]
+	path = MixSemiRob
+	url = https://github.com/cran/MixSemiRob
+	shallow = true
+	registered = true
